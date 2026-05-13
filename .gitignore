@@ -1,0 +1,42 @@
+# IntelliJ / IDE files
+.idea/
+HELP.md
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Java / Maven / Gradle build files
+target/
+build/
+.gradle/
+out/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+application-secret.properties
+application-local.properties
+
+# Node / React
+node_modules/
+dist/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tmp
+*.swp
